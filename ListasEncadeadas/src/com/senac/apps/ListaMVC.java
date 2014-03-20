@@ -7,10 +7,5 @@ public class ListaMVC {
 		controller.iniciaLista();
 		controller.imprimeLista();
 	}
-public void testaGit(){
-	
-	System.out.println("Tamujuntu!!");
-	
-}
 
 }
